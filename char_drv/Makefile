@@ -1,3 +1,4 @@
+#Test Gerrit Commit
 obj-m += simple_char_device_driver.o
 KDIR = /lib/modules/$(shell uname -r)/build
 all :
